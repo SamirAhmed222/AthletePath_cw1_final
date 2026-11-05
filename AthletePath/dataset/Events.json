@@ -1,0 +1,642 @@
+[
+  {
+    "event_id": "EVENT001",
+    "coach_id": "COACH001",
+    "title": "Men's Downhill 1st Official Training",
+    "sport_type": "Alpine Skiing",
+    "event_date": "2026-02-04",
+    "start_time": "11:30",
+    "end_time": "13:30",
+    "venue": "Stelvio Ski Centre",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Stelvio Ski Centre",
+        "location_name": "Stelvio Ski Centre-ALP Course"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "ALPMDH----------------TRNO000100--",
+      "discipline_code": "ALP",
+      "start_datetime_local": "2026-02-04T11:30:00",
+      "end_datetime_local": "2026-02-04T13:30:00",
+      "venue_code": "SSC",
+      "is_training": true,
+      "source_row_number": 2
+    },
+    "event_program": {
+      "venue": {
+        "name": "Stelvio Ski Centre",
+        "location": {
+          "venue_name": "Stelvio Ski Centre",
+          "location_name": "Stelvio Ski Centre-ALP Course"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT001-S1",
+          "timing": {
+            "date": "2026-02-04",
+            "start": "11:30",
+            "end": "13:30"
+          },
+          "activities": [
+            {
+              "name": "Men's Downhill 1st Official Training",
+              "sport": "Alpine Skiing",
+              "type": "historical Olympics training",
+              "source_event_code": "ALPMDH----------------TRNO000100--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  },
+  {
+    "event_id": "EVENT002",
+    "coach_id": "COACH002",
+    "title": "Men's Singles Official Training Run 1",
+    "sport_type": "Luge",
+    "event_date": "2026-02-04",
+    "start_time": "19:30",
+    "end_time": "20:11",
+    "venue": "Cortina Sliding Centre",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Cortina Sliding Centre",
+        "location_name": "Cortina Sliding Centre"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "LUGMSINGLES-----------TRNO000100--",
+      "discipline_code": "LUG",
+      "start_datetime_local": "2026-02-04T19:30:00",
+      "end_datetime_local": "2026-02-04T20:11:40",
+      "venue_code": "CSC",
+      "is_training": true,
+      "source_row_number": 23
+    },
+    "event_program": {
+      "venue": {
+        "name": "Cortina Sliding Centre",
+        "location": {
+          "venue_name": "Cortina Sliding Centre",
+          "location_name": "Cortina Sliding Centre"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT002-S1",
+          "timing": {
+            "date": "2026-02-04",
+            "start": "19:30",
+            "end": "20:11"
+          },
+          "activities": [
+            {
+              "name": "Men's Singles Official Training Run 1",
+              "sport": "Luge",
+              "type": "historical Olympics training",
+              "source_event_code": "LUGMSINGLES-----------TRNO000100--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  },
+  {
+    "event_id": "EVENT003",
+    "coach_id": "COACH003",
+    "title": "Women's NH - Official Training 1",
+    "sport_type": "Ski Jumping",
+    "event_date": "2026-02-04",
+    "start_time": "17:00",
+    "end_time": "19:00",
+    "venue": "Predazzo Ski Jumping Stadium",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Predazzo Ski Jumping Stadium",
+        "location_name": "Predazzo PSJ-Normal Hill"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "SJPWNHTRAIN-----------TRNO0100SJ--",
+      "discipline_code": "SJP",
+      "start_datetime_local": "2026-02-05T17:00:00",
+      "end_datetime_local": "2026-02-05T19:00:00",
+      "venue_code": "PSJ",
+      "is_training": true,
+      "source_row_number": 29
+    },
+    "event_program": {
+      "venue": {
+        "name": "Predazzo Ski Jumping Stadium",
+        "location": {
+          "venue_name": "Predazzo Ski Jumping Stadium",
+          "location_name": "Predazzo PSJ-Normal Hill"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT003-S1",
+          "timing": {
+            "date": "2026-02-04",
+            "start": "17:00",
+            "end": "19:00"
+          },
+          "activities": [
+            {
+              "name": "Women's NH - Official Training 1",
+              "sport": "Ski Jumping",
+              "type": "historical Olympics training",
+              "source_event_code": "SJPWNHTRAIN-----------TRNO0100SJ--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  },
+  {
+    "event_id": "EVENT004",
+    "coach_id": "COACH001",
+    "title": "Normal Hill Off. Training 1",
+    "sport_type": "Nordic Combined",
+    "event_date": "2026-02-08",
+    "start_time": "09:00",
+    "end_time": "11:00",
+    "venue": "Predazzo Ski Jumping Stadium",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Predazzo Ski Jumping Stadium",
+        "location_name": "Predazzo PSJ-Normal Hill"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "NCBMNHTRAIN-----------TRNO0100SJ--",
+      "discipline_code": "NCB",
+      "start_datetime_local": "2026-02-09T09:00:00",
+      "end_datetime_local": "2026-02-09T11:00:00",
+      "venue_code": "PSJ",
+      "is_training": true,
+      "source_row_number": 332
+    },
+    "event_program": {
+      "venue": {
+        "name": "Predazzo Ski Jumping Stadium",
+        "location": {
+          "venue_name": "Predazzo Ski Jumping Stadium",
+          "location_name": "Predazzo PSJ-Normal Hill"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT004-S1",
+          "timing": {
+            "date": "2026-02-08",
+            "start": "09:00",
+            "end": "11:00"
+          },
+          "activities": [
+            {
+              "name": "Normal Hill Off. Training 1",
+              "sport": "Nordic Combined",
+              "type": "historical Olympics training",
+              "source_event_code": "NCBMNHTRAIN-----------TRNO0100SJ--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  },
+  {
+    "event_id": "EVENT005",
+    "coach_id": "COACH002",
+    "title": "Women Official Training Heat 1",
+    "sport_type": "Skeleton",
+    "event_date": "2026-02-08",
+    "start_time": "08:00",
+    "end_time": "08:50",
+    "venue": "Cortina Sliding Centre",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Cortina Sliding Centre",
+        "location_name": "Cortina Sliding Centre"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "SKNWSINGLES-----------TRNO000100--",
+      "discipline_code": "SKN",
+      "start_datetime_local": "2026-02-09T08:00:00",
+      "end_datetime_local": "2026-02-09T08:50:00",
+      "venue_code": "CSC",
+      "is_training": true,
+      "source_row_number": 333
+    },
+    "event_program": {
+      "venue": {
+        "name": "Cortina Sliding Centre",
+        "location": {
+          "venue_name": "Cortina Sliding Centre",
+          "location_name": "Cortina Sliding Centre"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT005-S1",
+          "timing": {
+            "date": "2026-02-08",
+            "start": "08:00",
+            "end": "08:50"
+          },
+          "activities": [
+            {
+              "name": "Women Official Training Heat 1",
+              "sport": "Skeleton",
+              "type": "historical Olympics training",
+              "source_event_code": "SKNWSINGLES-----------TRNO000100--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  },
+  {
+    "event_id": "EVENT006",
+    "coach_id": "COACH003",
+    "title": "2-man Official Training Heat 1",
+    "sport_type": "Bobsleigh",
+    "event_date": "2026-02-11",
+    "start_time": "12:50",
+    "end_time": "13:46",
+    "venue": "Cortina Sliding Centre",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Cortina Sliding Centre",
+        "location_name": "Cortina Sliding Centre"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "BOBMTEAM2-------------TRNO000100--",
+      "discipline_code": "BOB",
+      "start_datetime_local": "2026-02-12T12:50:00",
+      "end_datetime_local": "2026-02-12T13:46:00",
+      "venue_code": "CSC",
+      "is_training": true,
+      "source_row_number": 607
+    },
+    "event_program": {
+      "venue": {
+        "name": "Cortina Sliding Centre",
+        "location": {
+          "venue_name": "Cortina Sliding Centre",
+          "location_name": "Cortina Sliding Centre"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT006-S1",
+          "timing": {
+            "date": "2026-02-11",
+            "start": "12:50",
+            "end": "13:46"
+          },
+          "activities": [
+            {
+              "name": "2-man Official Training Heat 1",
+              "sport": "Bobsleigh",
+              "type": "historical Olympics training",
+              "source_event_code": "BOBMTEAM2-------------TRNO000100--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  },
+  {
+    "event_id": "EVENT007",
+    "coach_id": "COACH001",
+    "title": "Men's Downhill 2nd Official Training",
+    "sport_type": "Alpine Skiing",
+    "event_date": "2026-02-04",
+    "start_time": "11:30",
+    "end_time": "13:30",
+    "venue": "Stelvio Ski Centre",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Stelvio Ski Centre",
+        "location_name": "Stelvio Ski Centre-ALP Course"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "ALPMDH----------------TRNO000200--",
+      "discipline_code": "ALP",
+      "start_datetime_local": "2026-02-05T11:30:00",
+      "end_datetime_local": "2026-02-05T13:30:00",
+      "venue_code": "SSC",
+      "is_training": true,
+      "source_row_number": 3
+    },
+    "event_program": {
+      "venue": {
+        "name": "Stelvio Ski Centre",
+        "location": {
+          "venue_name": "Stelvio Ski Centre",
+          "location_name": "Stelvio Ski Centre-ALP Course"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT007-S1",
+          "timing": {
+            "date": "2026-02-04",
+            "start": "11:30",
+            "end": "13:30"
+          },
+          "activities": [
+            {
+              "name": "Men's Downhill 2nd Official Training",
+              "sport": "Alpine Skiing",
+              "type": "historical Olympics training",
+              "source_event_code": "ALPMDH----------------TRNO000200--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  },
+  {
+    "event_id": "EVENT008",
+    "coach_id": "COACH002",
+    "title": "Women's Downhill 1st Official Training",
+    "sport_type": "Alpine Skiing",
+    "event_date": "2026-02-04",
+    "start_time": "11:30",
+    "end_time": "13:30",
+    "venue": "Tofane Alpine Skiing Centre",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Tofane Alpine Skiing Centre",
+        "location_name": "Tofane Alpine Skiing Centre"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "ALPWDH----------------TRNO000100--",
+      "discipline_code": "ALP",
+      "start_datetime_local": "2026-02-05T11:30:00",
+      "end_datetime_local": "2026-02-05T13:30:00",
+      "venue_code": "CAL",
+      "is_training": true,
+      "source_row_number": 4
+    },
+    "event_program": {
+      "venue": {
+        "name": "Tofane Alpine Skiing Centre",
+        "location": {
+          "venue_name": "Tofane Alpine Skiing Centre",
+          "location_name": "Tofane Alpine Skiing Centre"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT008-S1",
+          "timing": {
+            "date": "2026-02-04",
+            "start": "11:30",
+            "end": "13:30"
+          },
+          "activities": [
+            {
+              "name": "Women's Downhill 1st Official Training",
+              "sport": "Alpine Skiing",
+              "type": "historical Olympics training",
+              "source_event_code": "ALPWDH----------------TRNO000100--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  },
+  {
+    "event_id": "EVENT009",
+    "coach_id": "COACH003",
+    "title": "Men's Singles Official Training Run 3",
+    "sport_type": "Luge",
+    "event_date": "2026-02-04",
+    "start_time": "14:30",
+    "end_time": "15:11",
+    "venue": "Cortina Sliding Centre",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Cortina Sliding Centre",
+        "location_name": "Cortina Sliding Centre"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "LUGMSINGLES-----------TRNO000300--",
+      "discipline_code": "LUG",
+      "start_datetime_local": "2026-02-05T14:30:00",
+      "end_datetime_local": "2026-02-05T15:11:40",
+      "venue_code": "CSC",
+      "is_training": true,
+      "source_row_number": 24
+    },
+    "event_program": {
+      "venue": {
+        "name": "Cortina Sliding Centre",
+        "location": {
+          "venue_name": "Cortina Sliding Centre",
+          "location_name": "Cortina Sliding Centre"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT009-S1",
+          "timing": {
+            "date": "2026-02-04",
+            "start": "14:30",
+            "end": "15:11"
+          },
+          "activities": [
+            {
+              "name": "Men's Singles Official Training Run 3",
+              "sport": "Luge",
+              "type": "historical Olympics training",
+              "source_event_code": "LUGMSINGLES-----------TRNO000300--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  },
+  {
+    "event_id": "EVENT010",
+    "coach_id": "COACH001",
+    "title": "Men's Singles Official Training Run 4",
+    "sport_type": "Luge",
+    "event_date": "2026-02-04",
+    "start_time": "15:27",
+    "end_time": "16:08",
+    "venue": "Cortina Sliding Centre",
+    "difficulty_level": "Not specified",
+    "capacity": null,
+    "description": "Historical 2026 Winter Olympics official training schedule entry; used as a reference/demo event, not a bookable AthletePath coaching session.",
+    "session_details": {
+      "event_type": "Olympics official training (historical)",
+      "is_bookable": false,
+      "location": {
+        "venue_name": "Cortina Sliding Centre",
+        "location_name": "Cortina Sliding Centre"
+      }
+    },
+    "data_origin": "source-derived historical Olympics training event; coach_id is synthetic and does not imply real Olympic coaching affiliation",
+    "registration_open": false,
+    "source_event": {
+      "event_code": "LUGMSINGLES-----------TRNO000400--",
+      "discipline_code": "LUG",
+      "start_datetime_local": "2026-02-05T15:27:00",
+      "end_datetime_local": "2026-02-05T16:08:40",
+      "venue_code": "CSC",
+      "is_training": true,
+      "source_row_number": 25
+    },
+    "event_program": {
+      "venue": {
+        "name": "Cortina Sliding Centre",
+        "location": {
+          "venue_name": "Cortina Sliding Centre",
+          "location_name": "Cortina Sliding Centre"
+        }
+      },
+      "sessions": [
+        {
+          "session_id": "EVENT010-S1",
+          "timing": {
+            "date": "2026-02-04",
+            "start": "15:27",
+            "end": "16:08"
+          },
+          "activities": [
+            {
+              "name": "Men's Singles Official Training Run 4",
+              "sport": "Luge",
+              "type": "historical Olympics training",
+              "source_event_code": "LUGMSINGLES-----------TRNO000400--"
+            }
+          ],
+          "registration": {
+            "is_bookable": false,
+            "capacity": null
+          }
+        }
+      ],
+      "source_note": "Historical Olympic schedule; no real AthletePath registration"
+    }
+  }
+]

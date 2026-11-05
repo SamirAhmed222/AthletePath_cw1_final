@@ -1,0 +1,743 @@
+[
+  {
+    "user_id": "ATH001",
+    "name": "Demo Athlete 001",
+    "email": "athlete001@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 56,
+    "sport": "Yoga",
+    "experience_level": 3,
+    "fitness_profile": {
+      "gender": "Male",
+      "body_composition": {
+        "weight_kg": 88.3,
+        "height_m": 1.71,
+        "bmi": 30.2,
+        "body_fat_percentage": 12.6
+      },
+      "weekly_workout_frequency": 4,
+      "water_intake_liters": 3.5
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Yoga",
+          "experience_level": 3,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 88.3,
+          "height_m": 1.71,
+          "bmi": 30.2,
+          "body_fat_percentage": 12.6
+        },
+        "activity": {
+          "weekly_workout_frequency": 4,
+          "water_intake_liters": 3.5
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL001",
+          "GOAL012"
+        ],
+        "training_plan_ids": [
+          "PLAN001"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH002",
+    "name": "Demo Athlete 002",
+    "email": "athlete002@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 46,
+    "sport": "HIIT",
+    "experience_level": 2,
+    "fitness_profile": {
+      "gender": "Female",
+      "body_composition": {
+        "weight_kg": 74.9,
+        "height_m": 1.53,
+        "bmi": 32,
+        "body_fat_percentage": 33.9
+      },
+      "weekly_workout_frequency": 4,
+      "water_intake_liters": 2.1
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "HIIT",
+          "experience_level": 2,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 74.9,
+          "height_m": 1.53,
+          "bmi": 32,
+          "body_fat_percentage": 33.9
+        },
+        "activity": {
+          "weekly_workout_frequency": 4,
+          "water_intake_liters": 2.1
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL002",
+          "GOAL013"
+        ],
+        "training_plan_ids": [
+          "PLAN002"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH003",
+    "name": "Demo Athlete 003",
+    "email": "athlete003@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 32,
+    "sport": "Cardio",
+    "experience_level": 2,
+    "fitness_profile": {
+      "gender": "Female",
+      "body_composition": {
+        "weight_kg": 68.1,
+        "height_m": 1.66,
+        "bmi": 24.71,
+        "body_fat_percentage": 33.4
+      },
+      "weekly_workout_frequency": 4,
+      "water_intake_liters": 2.3
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Cardio",
+          "experience_level": 2,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 68.1,
+          "height_m": 1.66,
+          "bmi": 24.71,
+          "body_fat_percentage": 33.4
+        },
+        "activity": {
+          "weekly_workout_frequency": 4,
+          "water_intake_liters": 2.3
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL003",
+          "GOAL014"
+        ],
+        "training_plan_ids": [
+          "PLAN003"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH004",
+    "name": "Demo Athlete 004",
+    "email": "athlete004@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 25,
+    "sport": "Strength",
+    "experience_level": 1,
+    "fitness_profile": {
+      "gender": "Male",
+      "body_composition": {
+        "weight_kg": 53.2,
+        "height_m": 1.7,
+        "bmi": 18.41,
+        "body_fat_percentage": 28.8
+      },
+      "weekly_workout_frequency": 3,
+      "water_intake_liters": 2.1
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Strength",
+          "experience_level": 1,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 53.2,
+          "height_m": 1.7,
+          "bmi": 18.41,
+          "body_fat_percentage": 28.8
+        },
+        "activity": {
+          "weekly_workout_frequency": 3,
+          "water_intake_liters": 2.1
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL004",
+          "GOAL015"
+        ],
+        "training_plan_ids": [
+          "PLAN004"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH005",
+    "name": "Demo Athlete 005",
+    "email": "athlete005@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 38,
+    "sport": "Strength",
+    "experience_level": 1,
+    "fitness_profile": {
+      "gender": "Male",
+      "body_composition": {
+        "weight_kg": 46.1,
+        "height_m": 1.79,
+        "bmi": 14.39,
+        "body_fat_percentage": 29.2
+      },
+      "weekly_workout_frequency": 3,
+      "water_intake_liters": 2.8
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Strength",
+          "experience_level": 1,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 46.1,
+          "height_m": 1.79,
+          "bmi": 14.39,
+          "body_fat_percentage": 29.2
+        },
+        "activity": {
+          "weekly_workout_frequency": 3,
+          "water_intake_liters": 2.8
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL005",
+          "GOAL016"
+        ],
+        "training_plan_ids": [
+          "PLAN005"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH006",
+    "name": "Demo Athlete 006",
+    "email": "athlete006@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 56,
+    "sport": "HIIT",
+    "experience_level": 3,
+    "fitness_profile": {
+      "gender": "Female",
+      "body_composition": {
+        "weight_kg": 58,
+        "height_m": 1.68,
+        "bmi": 20.55,
+        "body_fat_percentage": 15.5
+      },
+      "weekly_workout_frequency": 5,
+      "water_intake_liters": 2.7
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "HIIT",
+          "experience_level": 3,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 58,
+          "height_m": 1.68,
+          "bmi": 20.55,
+          "body_fat_percentage": 15.5
+        },
+        "activity": {
+          "weekly_workout_frequency": 5,
+          "water_intake_liters": 2.7
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL006",
+          "GOAL017"
+        ],
+        "training_plan_ids": [
+          "PLAN006"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH007",
+    "name": "Demo Athlete 007",
+    "email": "athlete007@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 36,
+    "sport": "Cardio",
+    "experience_level": 2,
+    "fitness_profile": {
+      "gender": "Male",
+      "body_composition": {
+        "weight_kg": 70.3,
+        "height_m": 1.72,
+        "bmi": 23.76,
+        "body_fat_percentage": 21.3
+      },
+      "weekly_workout_frequency": 3,
+      "water_intake_liters": 2.3
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Cardio",
+          "experience_level": 2,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 70.3,
+          "height_m": 1.72,
+          "bmi": 23.76,
+          "body_fat_percentage": 21.3
+        },
+        "activity": {
+          "weekly_workout_frequency": 3,
+          "water_intake_liters": 2.3
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL007",
+          "GOAL018"
+        ],
+        "training_plan_ids": [
+          "PLAN007"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH008",
+    "name": "Demo Athlete 008",
+    "email": "athlete008@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 40,
+    "sport": "Cardio",
+    "experience_level": 2,
+    "fitness_profile": {
+      "gender": "Female",
+      "body_composition": {
+        "weight_kg": 69.7,
+        "height_m": 1.51,
+        "bmi": 30.57,
+        "body_fat_percentage": 30.6
+      },
+      "weekly_workout_frequency": 3,
+      "water_intake_liters": 1.9
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Cardio",
+          "experience_level": 2,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 69.7,
+          "height_m": 1.51,
+          "bmi": 30.57,
+          "body_fat_percentage": 30.6
+        },
+        "activity": {
+          "weekly_workout_frequency": 3,
+          "water_intake_liters": 1.9
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL008",
+          "GOAL019"
+        ],
+        "training_plan_ids": [
+          "PLAN008"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH009",
+    "name": "Demo Athlete 009",
+    "email": "athlete009@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 28,
+    "sport": "Strength",
+    "experience_level": 2,
+    "fitness_profile": {
+      "gender": "Male",
+      "body_composition": {
+        "weight_kg": 121.7,
+        "height_m": 1.94,
+        "bmi": 32.34,
+        "body_fat_percentage": 28.9
+      },
+      "weekly_workout_frequency": 4,
+      "water_intake_liters": 2.6
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Strength",
+          "experience_level": 2,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 121.7,
+          "height_m": 1.94,
+          "bmi": 32.34,
+          "body_fat_percentage": 28.9
+        },
+        "activity": {
+          "weekly_workout_frequency": 4,
+          "water_intake_liters": 2.6
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL009",
+          "GOAL020"
+        ],
+        "training_plan_ids": [
+          "PLAN009"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH010",
+    "name": "Demo Athlete 010",
+    "email": "athlete010@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 28,
+    "sport": "Cardio",
+    "experience_level": 1,
+    "fitness_profile": {
+      "gender": "Male",
+      "body_composition": {
+        "weight_kg": 101.8,
+        "height_m": 1.84,
+        "bmi": 30.07,
+        "body_fat_percentage": 29.7
+      },
+      "weekly_workout_frequency": 3,
+      "water_intake_liters": 2.7
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Cardio",
+          "experience_level": 1,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 101.8,
+          "height_m": 1.84,
+          "bmi": 30.07,
+          "body_fat_percentage": 29.7
+        },
+        "activity": {
+          "weekly_workout_frequency": 3,
+          "water_intake_liters": 2.7
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL010"
+        ],
+        "training_plan_ids": [
+          "PLAN010"
+        ]
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ATH011",
+    "name": "Demo Athlete 011",
+    "email": "athlete011@example.test",
+    "password_hash": null,
+    "role": "Athlete",
+    "age": 41,
+    "sport": "HIIT",
+    "experience_level": 1,
+    "fitness_profile": {
+      "gender": "Male",
+      "body_composition": {
+        "weight_kg": 120.8,
+        "height_m": 1.67,
+        "bmi": 43.31,
+        "body_fat_percentage": 20.5
+      },
+      "weekly_workout_frequency": 2,
+      "water_intake_liters": 3
+    },
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "HIIT",
+          "experience_level": 1,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {
+          "weight_kg": 120.8,
+          "height_m": 1.67,
+          "bmi": 43.31,
+          "body_fat_percentage": 20.5
+        },
+        "activity": {
+          "weekly_workout_frequency": 2,
+          "water_intake_liters": 3
+        }
+      },
+      "linked_records": {
+        "goal_ids": [
+          "GOAL011"
+        ],
+        "training_plan_ids": []
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "COACH001",
+    "name": "Demo Coach 1",
+    "email": "coach1@example.test",
+    "password_hash": null,
+    "role": "Coach",
+    "age": null,
+    "sport": "Multi-sport",
+    "experience_level": null,
+    "fitness_profile": {},
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Multi-sport",
+          "experience_level": null,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {},
+        "activity": {
+          "weekly_workout_frequency": null,
+          "water_intake_liters": null
+        }
+      },
+      "linked_records": {
+        "goal_ids": [],
+        "training_plan_ids": []
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "COACH002",
+    "name": "Demo Coach 2",
+    "email": "coach2@example.test",
+    "password_hash": null,
+    "role": "Coach",
+    "age": null,
+    "sport": "Multi-sport",
+    "experience_level": null,
+    "fitness_profile": {},
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Multi-sport",
+          "experience_level": null,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {},
+        "activity": {
+          "weekly_workout_frequency": null,
+          "water_intake_liters": null
+        }
+      },
+      "linked_records": {
+        "goal_ids": [],
+        "training_plan_ids": []
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "COACH003",
+    "name": "Demo Coach 3",
+    "email": "coach3@example.test",
+    "password_hash": null,
+    "role": "Coach",
+    "age": null,
+    "sport": "Multi-sport",
+    "experience_level": null,
+    "fitness_profile": {},
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": "Multi-sport",
+          "experience_level": null,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {},
+        "activity": {
+          "weekly_workout_frequency": null,
+          "water_intake_liters": null
+        }
+      },
+      "linked_records": {
+        "goal_ids": [],
+        "training_plan_ids": []
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  },
+  {
+    "user_id": "ADMIN001",
+    "name": "Demo Administrator",
+    "email": "admin@example.test",
+    "password_hash": null,
+    "role": "Admin",
+    "age": null,
+    "sport": null,
+    "experience_level": null,
+    "fitness_profile": {},
+    "created_at": null,
+    "data_origin": "synthetic user account; fitness profile based on a Kaggle workout row, not a verified real-world identity",
+    "account_status": "imported_demo_requires_registration",
+    "profile_details": {
+      "sport_preferences": [
+        {
+          "sport": null,
+          "experience_level": null,
+          "origin": "derived from Kaggle workout category; preference is demo interpretation"
+        }
+      ],
+      "fitness_assessment": {
+        "body_metrics": {},
+        "activity": {
+          "weekly_workout_frequency": null,
+          "water_intake_liters": null
+        }
+      },
+      "linked_records": {
+        "goal_ids": [],
+        "training_plan_ids": []
+      },
+      "source_note": "Derived fitness attributes are not verified identity information"
+    }
+  }
+]

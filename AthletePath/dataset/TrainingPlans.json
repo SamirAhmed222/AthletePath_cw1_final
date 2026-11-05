@@ -1,0 +1,622 @@
+[
+  {
+    "plan_id": "PLAN001",
+    "coach_id": "COACH001",
+    "athlete_id": "ATH001",
+    "title": "Demo weekly training plan 1",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 4,
+    "assigned_task_ids": [
+      "TASK001"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "Yoga",
+      "sessions": [
+        {
+          "task_id": "TASK001",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN001-TASK001",
+                  "task_id": "TASK001",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 9",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 9,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 4
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  },
+  {
+    "plan_id": "PLAN002",
+    "coach_id": "COACH002",
+    "athlete_id": "ATH002",
+    "title": "Demo weekly training plan 2",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 4,
+    "assigned_task_ids": [
+      "TASK002"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "HIIT",
+      "sessions": [
+        {
+          "task_id": "TASK002",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN002-TASK002",
+                  "task_id": "TASK002",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 12",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 12,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 4
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  },
+  {
+    "plan_id": "PLAN003",
+    "coach_id": "COACH003",
+    "athlete_id": "ATH003",
+    "title": "Demo weekly training plan 3",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 4,
+    "assigned_task_ids": [
+      "TASK003"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "Cardio",
+      "sessions": [
+        {
+          "task_id": "TASK003",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN003-TASK003",
+                  "task_id": "TASK003",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 20",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 20,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 4
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  },
+  {
+    "plan_id": "PLAN004",
+    "coach_id": "COACH001",
+    "athlete_id": "ATH004",
+    "title": "Demo weekly training plan 4",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 3,
+    "assigned_task_ids": [
+      "TASK004"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "Strength",
+      "sessions": [
+        {
+          "task_id": "TASK004",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN004-TASK004",
+                  "task_id": "TASK004",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 31",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 31,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 3
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  },
+  {
+    "plan_id": "PLAN005",
+    "coach_id": "COACH002",
+    "athlete_id": "ATH005",
+    "title": "Demo weekly training plan 5",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 3,
+    "assigned_task_ids": [
+      "TASK005"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "Strength",
+      "sessions": [
+        {
+          "task_id": "TASK005",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN005-TASK005",
+                  "task_id": "TASK005",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 41",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 41,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 3
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  },
+  {
+    "plan_id": "PLAN006",
+    "coach_id": "COACH003",
+    "athlete_id": "ATH006",
+    "title": "Demo weekly training plan 6",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 5,
+    "assigned_task_ids": [
+      "TASK006"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "HIIT",
+      "sessions": [
+        {
+          "task_id": "TASK006",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN006-TASK006",
+                  "task_id": "TASK006",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 43",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 43,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 5
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  },
+  {
+    "plan_id": "PLAN007",
+    "coach_id": "COACH001",
+    "athlete_id": "ATH007",
+    "title": "Demo weekly training plan 7",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 3,
+    "assigned_task_ids": [
+      "TASK007"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "Cardio",
+      "sessions": [
+        {
+          "task_id": "TASK007",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN007-TASK007",
+                  "task_id": "TASK007",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 46",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 46,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 3
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  },
+  {
+    "plan_id": "PLAN008",
+    "coach_id": "COACH002",
+    "athlete_id": "ATH008",
+    "title": "Demo weekly training plan 8",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 3,
+    "assigned_task_ids": [
+      "TASK008"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "Cardio",
+      "sessions": [
+        {
+          "task_id": "TASK008",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN008-TASK008",
+                  "task_id": "TASK008",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 48",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 48,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 3
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  },
+  {
+    "plan_id": "PLAN009",
+    "coach_id": "COACH003",
+    "athlete_id": "ATH009",
+    "title": "Demo weekly training plan 9",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 4,
+    "assigned_task_ids": [
+      "TASK009"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "Strength",
+      "sessions": [
+        {
+          "task_id": "TASK009",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN009-TASK009",
+                  "task_id": "TASK009",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 50",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 50,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 4
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  },
+  {
+    "plan_id": "PLAN010",
+    "coach_id": "COACH001",
+    "athlete_id": "ATH010",
+    "title": "Demo weekly training plan 10",
+    "start_date": null,
+    "end_date": null,
+    "weekly_frequency": 3,
+    "assigned_task_ids": [
+      "TASK010"
+    ],
+    "status": "Draft",
+    "plan_details": {
+      "focus": "Cardio",
+      "sessions": [
+        {
+          "task_id": "TASK010",
+          "day": "Unscheduled"
+        }
+      ]
+    },
+    "data_origin": "synthetic coaching plan linked to tasks with wger catalogue identifiers; no actual historical athlete plan",
+    "schedule_details": {
+      "weeks": [
+        {
+          "week_number": 1,
+          "training_days": [
+            {
+              "day": "Unscheduled",
+              "sessions": [
+                {
+                  "session_id": "PLAN010-TASK010",
+                  "task_id": "TASK010",
+                  "exercise_blocks": [
+                    {
+                      "exercise_name": "Exercise catalogue entry 51",
+                      "exercise_type": "wger exercise",
+                      "wger_exercise_id": 51,
+                      "sets": null,
+                      "repetitions": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "progress_tracking": {
+        "reviews": [
+          {
+            "review_number": 1,
+            "status": "Not recorded",
+            "coach_notes": [],
+            "completed_task_ids": []
+          }
+        ],
+        "target_frequency_per_week": 3
+      },
+      "source_note": "Weekly plan and assignments generated for demonstration; exercise IDs sourced from wger"
+    }
+  }
+]

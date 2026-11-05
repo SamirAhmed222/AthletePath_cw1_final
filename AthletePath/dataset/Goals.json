@@ -1,0 +1,1182 @@
+[
+  {
+    "goal_id": "GOAL001",
+    "athlete_id": "ATH001",
+    "title": "Maintain Yoga workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 4,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 4,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL001-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK001",
+              "exercise": "Exercise catalogue entry 9"
+            },
+            {
+              "task_id": "TASK021",
+              "exercise": "Exercise catalogue entry 84"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL002",
+    "athlete_id": "ATH002",
+    "title": "Maintain HIIT workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 4,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 4,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL002-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK002",
+              "exercise": "Exercise catalogue entry 12"
+            },
+            {
+              "task_id": "TASK022",
+              "exercise": "Exercise catalogue entry 91"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL003",
+    "athlete_id": "ATH003",
+    "title": "Maintain Cardio workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 4,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 4,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL003-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK003",
+              "exercise": "Exercise catalogue entry 20"
+            },
+            {
+              "task_id": "TASK023",
+              "exercise": "Exercise catalogue entry 92"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL004",
+    "athlete_id": "ATH004",
+    "title": "Maintain Strength workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL004-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK004",
+              "exercise": "Exercise catalogue entry 31"
+            },
+            {
+              "task_id": "TASK024",
+              "exercise": "Exercise catalogue entry 94"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL005",
+    "athlete_id": "ATH005",
+    "title": "Maintain Strength workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL005-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK005",
+              "exercise": "Exercise catalogue entry 41"
+            },
+            {
+              "task_id": "TASK025",
+              "exercise": "Exercise catalogue entry 95"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL006",
+    "athlete_id": "ATH006",
+    "title": "Maintain HIIT workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 5,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 5,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL006-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK006",
+              "exercise": "Exercise catalogue entry 43"
+            },
+            {
+              "task_id": "TASK026",
+              "exercise": "Exercise catalogue entry 112"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL007",
+    "athlete_id": "ATH007",
+    "title": "Maintain Cardio workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL007-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK007",
+              "exercise": "Exercise catalogue entry 46"
+            },
+            {
+              "task_id": "TASK027",
+              "exercise": "Exercise catalogue entry 124"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL008",
+    "athlete_id": "ATH008",
+    "title": "Maintain Cardio workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL008-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK008",
+              "exercise": "Exercise catalogue entry 48"
+            },
+            {
+              "task_id": "TASK028",
+              "exercise": "Exercise catalogue entry 129"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL009",
+    "athlete_id": "ATH009",
+    "title": "Maintain Strength workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 4,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 4,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL009-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK009",
+              "exercise": "Exercise catalogue entry 50"
+            },
+            {
+              "task_id": "TASK029",
+              "exercise": "Exercise catalogue entry 132"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL010",
+    "athlete_id": "ATH010",
+    "title": "Maintain Cardio workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL010-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK010",
+              "exercise": "Exercise catalogue entry 51"
+            },
+            {
+              "task_id": "TASK030",
+              "exercise": "Exercise catalogue entry 135"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL011",
+    "athlete_id": "ATH011",
+    "title": "Maintain HIIT workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 2,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 2,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL011-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK011",
+              "exercise": "Exercise catalogue entry 56"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL012",
+    "athlete_id": "ATH001",
+    "title": "Maintain HIIT workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL012-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK012",
+              "exercise": "Exercise catalogue entry 57"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL013",
+    "athlete_id": "ATH002",
+    "title": "Maintain Cardio workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL013-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK013",
+              "exercise": "Exercise catalogue entry 71"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL014",
+    "athlete_id": "ATH003",
+    "title": "Maintain HIIT workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL014-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK014",
+              "exercise": "Exercise catalogue entry 73"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL015",
+    "athlete_id": "ATH004",
+    "title": "Maintain Yoga workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL015-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK015",
+              "exercise": "Exercise catalogue entry 75"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL016",
+    "athlete_id": "ATH005",
+    "title": "Maintain Strength workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 2,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 2,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL016-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK016",
+              "exercise": "Exercise catalogue entry 76"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL017",
+    "athlete_id": "ATH006",
+    "title": "Maintain HIIT workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL017-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK017",
+              "exercise": "Exercise catalogue entry 79"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL018",
+    "athlete_id": "ATH007",
+    "title": "Maintain Cardio workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL018-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK018",
+              "exercise": "Exercise catalogue entry 81"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL019",
+    "athlete_id": "ATH008",
+    "title": "Maintain Strength workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 3,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 3,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL019-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK019",
+              "exercise": "Exercise catalogue entry 82"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  },
+  {
+    "goal_id": "GOAL020",
+    "athlete_id": "ATH009",
+    "title": "Maintain HIIT workout routine",
+    "description": "Demonstration goal based on the source workout category; not a goal reported by the dataset.",
+    "category": "Training consistency",
+    "priority": "Medium",
+    "goal_type": "Short-term",
+    "target_value": 2,
+    "current_value": 0,
+    "unit": "sessions/week",
+    "start_date": null,
+    "deadline": null,
+    "status": "Pending",
+    "progress": {
+      "percent_complete": 0,
+      "measurement_basis": "demo target, not a historical observation"
+    },
+    "data_origin": "synthetic application demo",
+    "goal_details": {
+      "targets": [
+        {
+          "metric": "sessions/week",
+          "baseline": 0,
+          "target": 2,
+          "tracking": {
+            "checkpoints": [
+              {
+                "stage": "initial",
+                "value": 0,
+                "observed": false,
+                "origin": "demo baseline"
+              }
+            ]
+          }
+        }
+      ],
+      "milestones": [
+        {
+          "milestone_id": "GOAL020-M1",
+          "description": "Review progress toward goal",
+          "status": "Not started",
+          "task_links": [
+            {
+              "task_id": "TASK020",
+              "exercise": "Exercise catalogue entry 83"
+            }
+          ]
+        }
+      ],
+      "evaluation": {
+        "priority": "Medium",
+        "goal_type": "Short-term",
+        "data_origin": "generated application structure"
+      }
+    }
+  }
+]

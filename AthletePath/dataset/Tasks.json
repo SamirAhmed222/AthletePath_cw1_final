@@ -1,0 +1,2152 @@
+[
+  {
+    "task_id": "TASK001",
+    "goal_id": "GOAL001",
+    "athlete_id": "ATH001",
+    "exercise_name": "Exercise catalogue entry 9",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 9,
+      "wger_uuid": "1b020b3a-3732-4c7e-92fd-a0cec90ed69b",
+      "category_id": 10,
+      "equipment_ids": [
+        10
+      ],
+      "primary_muscle_ids": [],
+      "secondary_muscle_ids": [],
+      "license_author": "deusinvictus",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK001-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK001-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 9",
+                "wger_exercise_id": 9,
+                "equipment_ids": [
+                  10
+                ],
+                "muscle_groups": {
+                  "primary_ids": [],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK002",
+    "goal_id": "GOAL002",
+    "athlete_id": "ATH002",
+    "exercise_name": "Exercise catalogue entry 12",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 12,
+      "wger_uuid": "53906cd1-61f1-4d56-ac60-e4fcc5824861",
+      "category_id": 9,
+      "equipment_ids": [],
+      "primary_muscle_ids": [
+        8
+      ],
+      "secondary_muscle_ids": [],
+      "license_author": "flori",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK002-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK002-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 12",
+                "wger_exercise_id": 12,
+                "equipment_ids": [],
+                "muscle_groups": {
+                  "primary_ids": [
+                    8
+                  ],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK003",
+    "goal_id": "GOAL003",
+    "athlete_id": "ATH003",
+    "exercise_name": "Exercise catalogue entry 20",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 20,
+      "wger_uuid": "f24cb758-9c0d-42d4-ad9e-6025c527dd13",
+      "category_id": 13,
+      "equipment_ids": [
+        3
+      ],
+      "primary_muscle_ids": [],
+      "secondary_muscle_ids": [],
+      "license_author": "trzr23",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK003-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK003-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 20",
+                "wger_exercise_id": 20,
+                "equipment_ids": [
+                  3
+                ],
+                "muscle_groups": {
+                  "primary_ids": [],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK004",
+    "goal_id": "GOAL004",
+    "athlete_id": "ATH004",
+    "exercise_name": "Exercise catalogue entry 31",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 31,
+      "wger_uuid": "f2733700-aa5d-4df7-bc52-1876ab4fb479",
+      "category_id": 8,
+      "equipment_ids": [
+        3
+      ],
+      "primary_muscle_ids": [],
+      "secondary_muscle_ids": [],
+      "license_author": "GrosseHund",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK004-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK004-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 31",
+                "wger_exercise_id": 31,
+                "equipment_ids": [
+                  3
+                ],
+                "muscle_groups": {
+                  "primary_ids": [],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK005",
+    "goal_id": "GOAL005",
+    "athlete_id": "ATH005",
+    "exercise_name": "Exercise catalogue entry 41",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 41,
+      "wger_uuid": "a6bced3c-72f5-42a3-9438-5569d46f49fd",
+      "category_id": 10,
+      "equipment_ids": [
+        1
+      ],
+      "primary_muscle_ids": [
+        14
+      ],
+      "secondary_muscle_ids": [],
+      "license_author": "sevae",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK005-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK005-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 41",
+                "wger_exercise_id": 41,
+                "equipment_ids": [
+                  1
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    14
+                  ],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK006",
+    "goal_id": "GOAL006",
+    "athlete_id": "ATH006",
+    "exercise_name": "Exercise catalogue entry 43",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 43,
+      "wger_uuid": "dae6f6ed-9408-4e62-a59a-1a33f4e8ab36",
+      "category_id": 9,
+      "equipment_ids": [
+        1
+      ],
+      "primary_muscle_ids": [],
+      "secondary_muscle_ids": [],
+      "license_author": "BePieToday",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK006-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK006-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 43",
+                "wger_exercise_id": 43,
+                "equipment_ids": [
+                  1
+                ],
+                "muscle_groups": {
+                  "primary_ids": [],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK007",
+    "goal_id": "GOAL007",
+    "athlete_id": "ATH007",
+    "exercise_name": "Exercise catalogue entry 46",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 46,
+      "wger_uuid": "04e7d7e4-f8d2-406d-97df-3df3bceec22c",
+      "category_id": 9,
+      "equipment_ids": [
+        1
+      ],
+      "primary_muscle_ids": [
+        10
+      ],
+      "secondary_muscle_ids": [
+        8
+      ],
+      "license_author": "Mikko Ruohola",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK007-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK007-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 46",
+                "wger_exercise_id": 46,
+                "equipment_ids": [
+                  1
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    10
+                  ],
+                  "secondary_ids": [
+                    8
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK008",
+    "goal_id": "GOAL008",
+    "athlete_id": "ATH008",
+    "exercise_name": "Exercise catalogue entry 48",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 48,
+      "wger_uuid": "67c26c9b-32f3-4b8b-b13a-4d8be4803975",
+      "category_id": 8,
+      "equipment_ids": [
+        1,
+        8
+      ],
+      "primary_muscle_ids": [],
+      "secondary_muscle_ids": [],
+      "license_author": "burenl",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK008-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK008-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 48",
+                "wger_exercise_id": 48,
+                "equipment_ids": [
+                  1,
+                  8
+                ],
+                "muscle_groups": {
+                  "primary_ids": [],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK009",
+    "goal_id": "GOAL009",
+    "athlete_id": "ATH009",
+    "exercise_name": "Exercise catalogue entry 50",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 50,
+      "wger_uuid": "13234b53-ea0c-41f1-9069-776865ea8eff",
+      "category_id": 8,
+      "equipment_ids": [
+        1
+      ],
+      "primary_muscle_ids": [
+        5
+      ],
+      "secondary_muscle_ids": [
+        2,
+        4
+      ],
+      "license_author": "sevae",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK009-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK009-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 50",
+                "wger_exercise_id": 50,
+                "equipment_ids": [
+                  1
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    5
+                  ],
+                  "secondary_ids": [
+                    2,
+                    4
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK010",
+    "goal_id": "GOAL010",
+    "athlete_id": "ATH010",
+    "exercise_name": "Exercise catalogue entry 51",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 51,
+      "wger_uuid": "cfb6a754-57be-431b-b8d0-d9963120bd5a",
+      "category_id": 8,
+      "equipment_ids": [
+        1,
+        8
+      ],
+      "primary_muscle_ids": [
+        2,
+        11
+      ],
+      "secondary_muscle_ids": [
+        1,
+        14
+      ],
+      "license_author": "burenl",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK010-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK010-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 51",
+                "wger_exercise_id": 51,
+                "equipment_ids": [
+                  1,
+                  8
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    2,
+                    11
+                  ],
+                  "secondary_ids": [
+                    1,
+                    14
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK011",
+    "goal_id": "GOAL011",
+    "athlete_id": "ATH011",
+    "exercise_name": "Exercise catalogue entry 56",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 56,
+      "wger_uuid": "03db11cc-8079-463c-9399-6f346b100ce6",
+      "category_id": 10,
+      "equipment_ids": [
+        4
+      ],
+      "primary_muscle_ids": [
+        6
+      ],
+      "secondary_muscle_ids": [
+        14
+      ],
+      "license_author": "andikeller",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK011-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK011-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 56",
+                "wger_exercise_id": 56,
+                "equipment_ids": [
+                  4
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    6
+                  ],
+                  "secondary_ids": [
+                    14
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK012",
+    "goal_id": "GOAL012",
+    "athlete_id": "ATH001",
+    "exercise_name": "Exercise catalogue entry 57",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 57,
+      "wger_uuid": "b7267f90-8706-442b-b918-507e16092b8e",
+      "category_id": 11,
+      "equipment_ids": [
+        7
+      ],
+      "primary_muscle_ids": [
+        2,
+        7,
+        4,
+        6,
+        3,
+        15,
+        5
+      ],
+      "secondary_muscle_ids": [
+        8,
+        12,
+        14,
+        10,
+        9
+      ],
+      "license_author": "nate303303",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK012-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK012-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 57",
+                "wger_exercise_id": 57,
+                "equipment_ids": [
+                  7
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    2,
+                    7,
+                    4,
+                    6,
+                    3,
+                    15,
+                    5
+                  ],
+                  "secondary_ids": [
+                    8,
+                    12,
+                    14,
+                    10,
+                    9
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK013",
+    "goal_id": "GOAL013",
+    "athlete_id": "ATH002",
+    "exercise_name": "Exercise catalogue entry 71",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 71,
+      "wger_uuid": "046fce45-69f2-46f7-a5b6-79a25a485af1",
+      "category_id": 9,
+      "equipment_ids": [],
+      "primary_muscle_ids": [
+        10
+      ],
+      "secondary_muscle_ids": [],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK013-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK013-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 71",
+                "wger_exercise_id": 71,
+                "equipment_ids": [],
+                "muscle_groups": {
+                  "primary_ids": [
+                    10
+                  ],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK014",
+    "goal_id": "GOAL014",
+    "athlete_id": "ATH003",
+    "exercise_name": "Exercise catalogue entry 73",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 73,
+      "wger_uuid": "3717d144-7815-4a97-9a56-956fb889c996",
+      "category_id": 11,
+      "equipment_ids": [
+        1,
+        8
+      ],
+      "primary_muscle_ids": [
+        4
+      ],
+      "secondary_muscle_ids": [
+        2,
+        5
+      ],
+      "license_author": "sistab2",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK014-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK014-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 73",
+                "wger_exercise_id": 73,
+                "equipment_ids": [
+                  1,
+                  8
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    4
+                  ],
+                  "secondary_ids": [
+                    2,
+                    5
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK015",
+    "goal_id": "GOAL015",
+    "athlete_id": "ATH004",
+    "exercise_name": "Exercise catalogue entry 75",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 75,
+      "wger_uuid": "28321cf3-70e6-48a4-ade1-d11382180cb3",
+      "category_id": 11,
+      "equipment_ids": [
+        8,
+        3
+      ],
+      "primary_muscle_ids": [
+        4
+      ],
+      "secondary_muscle_ids": [
+        2,
+        5
+      ],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK015-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK015-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 75",
+                "wger_exercise_id": 75,
+                "equipment_ids": [
+                  8,
+                  3
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    4
+                  ],
+                  "secondary_ids": [
+                    2,
+                    5
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK016",
+    "goal_id": "GOAL016",
+    "athlete_id": "ATH005",
+    "exercise_name": "Exercise catalogue entry 76",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 76,
+      "wger_uuid": "3db63138-a047-4a4d-b616-1a0b7dfca105",
+      "category_id": 8,
+      "equipment_ids": [
+        1,
+        8
+      ],
+      "primary_muscle_ids": [
+        5
+      ],
+      "secondary_muscle_ids": [
+        2,
+        4
+      ],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK016-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK016-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 76",
+                "wger_exercise_id": 76,
+                "equipment_ids": [
+                  1,
+                  8
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    5
+                  ],
+                  "secondary_ids": [
+                    2,
+                    4
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK017",
+    "goal_id": "GOAL017",
+    "athlete_id": "ATH006",
+    "exercise_name": "Exercise catalogue entry 79",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 79,
+      "wger_uuid": "01271ea0-088c-4e2b-95ad-876af7127057",
+      "category_id": 13,
+      "equipment_ids": [
+        3
+      ],
+      "primary_muscle_ids": [
+        9
+      ],
+      "secondary_muscle_ids": [],
+      "license_author": "lakerbeezel",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK017-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK017-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 79",
+                "wger_exercise_id": 79,
+                "equipment_ids": [
+                  3
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    9
+                  ],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK018",
+    "goal_id": "GOAL018",
+    "athlete_id": "ATH007",
+    "exercise_name": "Exercise catalogue entry 81",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 81,
+      "wger_uuid": "94a5c406-7bcd-47f3-9687-bdf92a763932",
+      "category_id": 12,
+      "equipment_ids": [
+        8,
+        3
+      ],
+      "primary_muscle_ids": [
+        12
+      ],
+      "secondary_muscle_ids": [],
+      "license_author": "sebk",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK018-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK018-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 81",
+                "wger_exercise_id": 81,
+                "equipment_ids": [
+                  8,
+                  3
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    12
+                  ],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK019",
+    "goal_id": "GOAL019",
+    "athlete_id": "ATH008",
+    "exercise_name": "Exercise catalogue entry 82",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 82,
+      "wger_uuid": "6f79b381-98a4-40d5-8a45-3bb0558be6fe",
+      "category_id": 13,
+      "equipment_ids": [
+        8,
+        3
+      ],
+      "primary_muscle_ids": [],
+      "secondary_muscle_ids": [],
+      "license_author": "apeschel",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK019-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK019-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 82",
+                "wger_exercise_id": 82,
+                "equipment_ids": [
+                  8,
+                  3
+                ],
+                "muscle_groups": {
+                  "primary_ids": [],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK020",
+    "goal_id": "GOAL020",
+    "athlete_id": "ATH009",
+    "exercise_name": "Exercise catalogue entry 83",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 83,
+      "wger_uuid": "4af6dbd9-8991-484b-9810-68f117c21edf",
+      "category_id": 12,
+      "equipment_ids": [
+        1
+      ],
+      "primary_muscle_ids": [
+        12
+      ],
+      "secondary_muscle_ids": [
+        2,
+        1
+      ],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK020-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK020-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 83",
+                "wger_exercise_id": 83,
+                "equipment_ids": [
+                  1
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    12
+                  ],
+                  "secondary_ids": [
+                    2,
+                    1
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK021",
+    "goal_id": "GOAL001",
+    "athlete_id": "ATH001",
+    "exercise_name": "Exercise catalogue entry 84",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 84,
+      "wger_uuid": "2f0ddf9a-f520-4c55-8883-f0d4a789f481",
+      "category_id": 12,
+      "equipment_ids": [
+        1
+      ],
+      "primary_muscle_ids": [
+        12
+      ],
+      "secondary_muscle_ids": [
+        2,
+        1
+      ],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK021-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK021-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 84",
+                "wger_exercise_id": 84,
+                "equipment_ids": [
+                  1
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    12
+                  ],
+                  "secondary_ids": [
+                    2,
+                    1
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK022",
+    "goal_id": "GOAL002",
+    "athlete_id": "ATH002",
+    "exercise_name": "Exercise catalogue entry 91",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 91,
+      "wger_uuid": "7b99a081-6b1a-4aa5-b86a-5a935d083a35",
+      "category_id": 8,
+      "equipment_ids": [
+        1
+      ],
+      "primary_muscle_ids": [
+        1
+      ],
+      "secondary_muscle_ids": [
+        13
+      ],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK022-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK022-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 91",
+                "wger_exercise_id": 91,
+                "equipment_ids": [
+                  1
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    1
+                  ],
+                  "secondary_ids": [
+                    13
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK023",
+    "goal_id": "GOAL003",
+    "athlete_id": "ATH003",
+    "exercise_name": "Exercise catalogue entry 92",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 92,
+      "wger_uuid": "1ae6a28d-10e7-4ecf-af4f-905f8193e2c6",
+      "category_id": 8,
+      "equipment_ids": [
+        3
+      ],
+      "primary_muscle_ids": [
+        1
+      ],
+      "secondary_muscle_ids": [
+        13
+      ],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK023-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK023-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 92",
+                "wger_exercise_id": 92,
+                "equipment_ids": [
+                  3
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    1
+                  ],
+                  "secondary_ids": [
+                    13
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK024",
+    "goal_id": "GOAL004",
+    "athlete_id": "ATH004",
+    "exercise_name": "Exercise catalogue entry 94",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 94,
+      "wger_uuid": "42227131-9b1e-4220-b082-c523f0651057",
+      "category_id": 8,
+      "equipment_ids": [
+        2
+      ],
+      "primary_muscle_ids": [
+        1
+      ],
+      "secondary_muscle_ids": [
+        13
+      ],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK024-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK024-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 94",
+                "wger_exercise_id": 94,
+                "equipment_ids": [
+                  2
+                ],
+                "muscle_groups": {
+                  "primary_ids": [
+                    1
+                  ],
+                  "secondary_ids": [
+                    13
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK025",
+    "goal_id": "GOAL005",
+    "athlete_id": "ATH005",
+    "exercise_name": "Exercise catalogue entry 95",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 95,
+      "wger_uuid": "bcb7020c-8678-496d-8f4d-aad0e233a5bd",
+      "category_id": 8,
+      "equipment_ids": [],
+      "primary_muscle_ids": [
+        1
+      ],
+      "secondary_muscle_ids": [],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK025-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK025-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 95",
+                "wger_exercise_id": 95,
+                "equipment_ids": [],
+                "muscle_groups": {
+                  "primary_ids": [
+                    1
+                  ],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK026",
+    "goal_id": "GOAL006",
+    "athlete_id": "ATH006",
+    "exercise_name": "Exercise catalogue entry 112",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 112,
+      "wger_uuid": "d551f24d-44fe-4761-9448-edf14d627827",
+      "category_id": 8,
+      "equipment_ids": [
+        7
+      ],
+      "primary_muscle_ids": [],
+      "secondary_muscle_ids": [],
+      "license_author": "cal.zabel",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK026-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK026-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 112",
+                "wger_exercise_id": 112,
+                "equipment_ids": [
+                  7
+                ],
+                "muscle_groups": {
+                  "primary_ids": [],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK027",
+    "goal_id": "GOAL007",
+    "athlete_id": "ATH007",
+    "exercise_name": "Exercise catalogue entry 124",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 124,
+      "wger_uuid": "8c6428f3-d41d-4ffc-8444-bb9b823bc42b",
+      "category_id": 9,
+      "equipment_ids": [],
+      "primary_muscle_ids": [
+        10
+      ],
+      "secondary_muscle_ids": [
+        8
+      ],
+      "license_author": "sevae",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK027-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK027-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 124",
+                "wger_exercise_id": 124,
+                "equipment_ids": [],
+                "muscle_groups": {
+                  "primary_ids": [
+                    10
+                  ],
+                  "secondary_ids": [
+                    8
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK028",
+    "goal_id": "GOAL008",
+    "athlete_id": "ATH008",
+    "exercise_name": "Exercise catalogue entry 129",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 129,
+      "wger_uuid": "5c414175-fe72-455a-ba8f-a0575cf792bd",
+      "category_id": 11,
+      "equipment_ids": [],
+      "primary_muscle_ids": [
+        4
+      ],
+      "secondary_muscle_ids": [],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK028-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK028-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 129",
+                "wger_exercise_id": 129,
+                "equipment_ids": [],
+                "muscle_groups": {
+                  "primary_ids": [
+                    4
+                  ],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK029",
+    "goal_id": "GOAL009",
+    "athlete_id": "ATH009",
+    "exercise_name": "Exercise catalogue entry 132",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 132,
+      "wger_uuid": "48ee1385-47c5-4821-8b6a-57fac6130776",
+      "category_id": 11,
+      "equipment_ids": [],
+      "primary_muscle_ids": [],
+      "secondary_muscle_ids": [],
+      "license_author": "er0355",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK029-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK029-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 132",
+                "wger_exercise_id": 132,
+                "equipment_ids": [],
+                "muscle_groups": {
+                  "primary_ids": [],
+                  "secondary_ids": []
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  },
+  {
+    "task_id": "TASK030",
+    "goal_id": "GOAL010",
+    "athlete_id": "ATH010",
+    "exercise_name": "Exercise catalogue entry 135",
+    "exercise_type": "wger exercise",
+    "sets": null,
+    "repetitions": null,
+    "duration_minutes": null,
+    "intensity": "Not specified",
+    "scheduled_date": null,
+    "completion_status": "Pending",
+    "completed_at": null,
+    "exercise_details": {
+      "wger_exercise_id": 135,
+      "wger_uuid": "99449eae-0eae-44ab-a57f-fc094bbdda13",
+      "category_id": 11,
+      "equipment_ids": [],
+      "primary_muscle_ids": [
+        4
+      ],
+      "secondary_muscle_ids": [
+        2
+      ],
+      "license_author": "wger.de",
+      "source_record_model": "exercises.exercise"
+    },
+    "data_origin": "wger exercise ID and metadata sourced; task assignment, status and goal association generated for demo; exercise name unavailable in base fixture",
+    "training_structure": {
+      "sessions": [
+        {
+          "session_id": "TASK030-S1",
+          "schedule": {
+            "date": null,
+            "status": "Unscheduled"
+          },
+          "exercise_blocks": [
+            {
+              "block_id": "TASK030-B1",
+              "exercise": {
+                "name": "Exercise catalogue entry 135",
+                "wger_exercise_id": 135,
+                "equipment_ids": [],
+                "muscle_groups": {
+                  "primary_ids": [
+                    4
+                  ],
+                  "secondary_ids": [
+                    2
+                  ]
+                }
+              },
+              "prescription": {
+                "sets": null,
+                "repetitions": null,
+                "duration_minutes": null,
+                "intensity": "Not specified"
+              },
+              "completion": {
+                "status": "Pending",
+                "completed_at": null,
+                "observations": []
+              }
+            }
+          ]
+        }
+      ],
+      "source_note": "Exercise IDs from wger; session/block organization generated for demonstration; null prescription values mean unspecified"
+    }
+  }
+]

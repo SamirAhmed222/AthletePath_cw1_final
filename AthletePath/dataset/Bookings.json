@@ -1,0 +1,942 @@
+[
+  {
+    "booking_id": "BOOK001",
+    "athlete_id": "ATH001",
+    "event_id": "EVENT001",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK001-R1",
+        "event": {
+          "event_id": "EVENT001",
+          "title": "Men's Downhill 1st Official Training",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK001-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK002",
+    "athlete_id": "ATH002",
+    "event_id": "EVENT002",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK002-R1",
+        "event": {
+          "event_id": "EVENT002",
+          "title": "Men's Singles Official Training Run 1",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK002-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK003",
+    "athlete_id": "ATH003",
+    "event_id": "EVENT003",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK003-R1",
+        "event": {
+          "event_id": "EVENT003",
+          "title": "Women's NH - Official Training 1",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK003-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK004",
+    "athlete_id": "ATH004",
+    "event_id": "EVENT004",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK004-R1",
+        "event": {
+          "event_id": "EVENT004",
+          "title": "Normal Hill Off. Training 1",
+          "date": "2026-02-08"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK004-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK005",
+    "athlete_id": "ATH005",
+    "event_id": "EVENT005",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK005-R1",
+        "event": {
+          "event_id": "EVENT005",
+          "title": "Women Official Training Heat 1",
+          "date": "2026-02-08"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK005-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK006",
+    "athlete_id": "ATH006",
+    "event_id": "EVENT006",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK006-R1",
+        "event": {
+          "event_id": "EVENT006",
+          "title": "2-man Official Training Heat 1",
+          "date": "2026-02-11"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK006-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK007",
+    "athlete_id": "ATH007",
+    "event_id": "EVENT007",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK007-R1",
+        "event": {
+          "event_id": "EVENT007",
+          "title": "Men's Downhill 2nd Official Training",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK007-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK008",
+    "athlete_id": "ATH008",
+    "event_id": "EVENT008",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK008-R1",
+        "event": {
+          "event_id": "EVENT008",
+          "title": "Women's Downhill 1st Official Training",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK008-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK009",
+    "athlete_id": "ATH009",
+    "event_id": "EVENT009",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK009-R1",
+        "event": {
+          "event_id": "EVENT009",
+          "title": "Men's Singles Official Training Run 3",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK009-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK010",
+    "athlete_id": "ATH010",
+    "event_id": "EVENT010",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK010-R1",
+        "event": {
+          "event_id": "EVENT010",
+          "title": "Men's Singles Official Training Run 4",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK010-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK011",
+    "athlete_id": "ATH011",
+    "event_id": "EVENT001",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK011-R1",
+        "event": {
+          "event_id": "EVENT001",
+          "title": "Men's Downhill 1st Official Training",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK011-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK012",
+    "athlete_id": "ATH001",
+    "event_id": "EVENT002",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK012-R1",
+        "event": {
+          "event_id": "EVENT002",
+          "title": "Men's Singles Official Training Run 1",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK012-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK013",
+    "athlete_id": "ATH002",
+    "event_id": "EVENT003",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK013-R1",
+        "event": {
+          "event_id": "EVENT003",
+          "title": "Women's NH - Official Training 1",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK013-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK014",
+    "athlete_id": "ATH003",
+    "event_id": "EVENT004",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK014-R1",
+        "event": {
+          "event_id": "EVENT004",
+          "title": "Normal Hill Off. Training 1",
+          "date": "2026-02-08"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK014-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK015",
+    "athlete_id": "ATH004",
+    "event_id": "EVENT005",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK015-R1",
+        "event": {
+          "event_id": "EVENT005",
+          "title": "Women Official Training Heat 1",
+          "date": "2026-02-08"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK015-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK016",
+    "athlete_id": "ATH005",
+    "event_id": "EVENT006",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK016-R1",
+        "event": {
+          "event_id": "EVENT006",
+          "title": "2-man Official Training Heat 1",
+          "date": "2026-02-11"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK016-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK017",
+    "athlete_id": "ATH006",
+    "event_id": "EVENT007",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK017-R1",
+        "event": {
+          "event_id": "EVENT007",
+          "title": "Men's Downhill 2nd Official Training",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK017-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK018",
+    "athlete_id": "ATH007",
+    "event_id": "EVENT008",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK018-R1",
+        "event": {
+          "event_id": "EVENT008",
+          "title": "Women's Downhill 1st Official Training",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK018-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK019",
+    "athlete_id": "ATH008",
+    "event_id": "EVENT009",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK019-R1",
+        "event": {
+          "event_id": "EVENT009",
+          "title": "Men's Singles Official Training Run 3",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK019-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  },
+  {
+    "booking_id": "BOOK020",
+    "athlete_id": "ATH009",
+    "event_id": "EVENT010",
+    "status": "Demo only",
+    "attendance_status": "Not applicable",
+    "booked_at": null,
+    "booking_details": {
+      "source": "generated app relationship",
+      "is_real_reservation": false,
+      "event_is_historical_olympics_training": true
+    },
+    "data_origin": "synthetic link only; not a real Olympics event booking",
+    "reservation_details": [
+      {
+        "reservation_id": "BOOK020-R1",
+        "event": {
+          "event_id": "EVENT010",
+          "title": "Men's Singles Official Training Run 4",
+          "date": "2026-02-04"
+        },
+        "sessions": [
+          {
+            "session_id": "BOOK020-S1",
+            "attendance": {
+              "status": "Not applicable",
+              "checkpoints": [
+                {
+                  "type": "check_in",
+                  "timestamp": null
+                },
+                {
+                  "type": "check_out",
+                  "timestamp": null
+                }
+              ]
+            },
+            "booking_status": "Demo only"
+          }
+        ],
+        "verification": {
+          "is_real_reservation": false,
+          "note": "Generated reference to historical Olympics event, not a genuine booking"
+        }
+      }
+    ]
+  }
+]
